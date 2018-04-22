@@ -1,0 +1,25 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+ 	<entry key = "1">Login</entry>
+	<entry key = "2">Exit</entry>
+	<entry key = "3">Settings</entry>
+	<entry key = "4">Language</entry>
+	<entry key = "5">Back</entry>
+	<entry key = "6">Resolution</entry>
+	<entry key = "7">Play</entry>
+	<entry key = "8">Your turn</entry>
+	<entry key = "9">Opponent's turn</entry>
+	<entry key = "10">Your Nick</entry>
+	<entry key = "11">Your wins</entry>
+	<entry key = "12">Opponent wins</entry>
+	<entry key = "13">Opponent Nick</entry>
+	<entry key = "14">Colour: White</entry>
+	<entry key = "15">Colour: Black</entry>
+	<entry key = "16">Black count</entry>
+	<entry key = "17">White count</entry>
+	<entry key = "18">You won the game!</entry>
+	<entry key = "19">You lost the game!</entry>
+	<entry key = "20">Opponent cannot make move!</entry>
+	<entry key = "21">Queue time</entry>
+	<entry key = "22">Enter login</entry>
+</properties>

@@ -1,0 +1,42 @@
+2018-02-03 15:47:43 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+2018-02-03 15:47:43 INFO  Version:41 - HHH000412: Hibernate Core {4.2.10.Final}
+2018-02-03 15:47:43 INFO  Environment:238 - HHH000206: hibernate.properties not found
+2018-02-03 15:47:43 INFO  Environment:345 - HHH000021: Bytecode provider name : javassist
+2018-02-03 15:47:43 WARN  DriverManagerConnectionProviderImpl:98 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2018-02-03 15:47:43 INFO  DriverManagerConnectionProviderImpl:134 - HHH000115: Hibernate connection pool size: 20
+2018-02-03 15:47:43 INFO  DriverManagerConnectionProviderImpl:137 - HHH000006: Autocommit mode: true
+2018-02-03 15:47:43 INFO  DriverManagerConnectionProviderImpl:151 - HHH000401: using driver [org.h2.Driver] at URL [jdbc:h2:~/Othello]
+2018-02-03 15:47:43 INFO  DriverManagerConnectionProviderImpl:156 - HHH000046: Connection properties: {autocommit=true, release_mode=auto, user=sa}
+2018-02-03 15:47:44 INFO  Dialect:130 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-02-03 15:47:44 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2018-02-03 15:47:44 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-03 15:47:44 INFO  SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+2018-02-03 15:47:44 INFO  SchemaUpdate:193 - HHH000102: Fetching database metadata
+2018-02-03 15:47:44 INFO  SchemaUpdate:205 - HHH000396: Updating schema
+2018-02-03 15:47:44 INFO  TableMetadata:66 - HHH000261: Table found: OTHELLO.PUBLIC.PLAYER
+2018-02-03 15:47:44 INFO  TableMetadata:67 - HHH000037: Columns: [wins, password, name]
+2018-02-03 15:47:44 INFO  TableMetadata:69 - HHH000108: Foreign keys: []
+2018-02-03 15:47:44 INFO  TableMetadata:70 - HHH000126: Indexes: [primary_key_d]
+2018-02-03 15:47:44 INFO  SchemaUpdate:242 - HHH000232: Schema update complete
+2018-02-03 17:33:40 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+2018-02-03 17:33:40 INFO  Version:41 - HHH000412: Hibernate Core {4.2.10.Final}
+2018-02-03 17:33:40 INFO  Environment:238 - HHH000206: hibernate.properties not found
+2018-02-03 17:33:40 INFO  Environment:345 - HHH000021: Bytecode provider name : javassist
+2018-02-03 17:33:41 WARN  DriverManagerConnectionProviderImpl:98 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2018-02-03 17:33:41 INFO  DriverManagerConnectionProviderImpl:134 - HHH000115: Hibernate connection pool size: 20
+2018-02-03 17:33:41 INFO  DriverManagerConnectionProviderImpl:137 - HHH000006: Autocommit mode: true
+2018-02-03 17:33:41 INFO  DriverManagerConnectionProviderImpl:151 - HHH000401: using driver [org.h2.Driver] at URL [jdbc:h2:~/Othello]
+2018-02-03 17:33:41 INFO  DriverManagerConnectionProviderImpl:156 - HHH000046: Connection properties: {autocommit=true, release_mode=auto, user=sa}
+2018-02-03 17:33:42 INFO  Dialect:130 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2018-02-03 17:33:42 INFO  TransactionFactoryInitiator:73 - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2018-02-03 17:33:42 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory
+2018-02-03 17:33:43 INFO  SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+2018-02-03 17:33:43 INFO  SchemaUpdate:193 - HHH000102: Fetching database metadata
+2018-02-03 17:33:43 INFO  SchemaUpdate:205 - HHH000396: Updating schema
+2018-02-03 17:33:43 INFO  TableMetadata:66 - HHH000261: Table found: OTHELLO.PUBLIC.PLAYER
+2018-02-03 17:33:43 INFO  TableMetadata:67 - HHH000037: Columns: [wins, password, name]
+2018-02-03 17:33:43 INFO  TableMetadata:69 - HHH000108: Foreign keys: []
+2018-02-03 17:33:43 INFO  TableMetadata:70 - HHH000126: Indexes: [primary_key_d]
+2018-02-03 17:33:43 INFO  SchemaUpdate:242 - HHH000232: Schema update complete
+2018-02-03 17:34:01 INFO  ClientThread:59 - Added new player to Database: kkkk
+2018-02-03 17:34:34 INFO  ClientThread:59 - Added new player to Database: oooo
